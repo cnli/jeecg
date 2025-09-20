@@ -11,7 +11,7 @@
         <minidao.version>1.6-SNAPSHOT</minidao.version>
 
 		<guava.version>16.0.1</guava.version>
-		<spring.version>4.0.9.RELEASE</spring.version>
+		<spring.version>6.2.11</spring.version>
 		<hibernate.version>4.1.0.Final</hibernate.version>
 		<hibernate-common-annotations.version>4.0.2.Final</hibernate-common-annotations.version>
 		<hibernate-jpa.version>1.0.1.Final</hibernate-jpa.version>
@@ -27,7 +27,7 @@
 		<javassist.version>3.15.0-GA</javassist.version>
 		<ant.version>1.6.5</ant.version>
 
-		<mybatis-spring.version>1.1.1</mybatis-spring.version>
+		<mybatis-spring.version>1.2.0</mybatis-spring.version>
 
 		<!-- 工具包 -->
         <!-- json start -->
