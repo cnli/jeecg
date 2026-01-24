@@ -12,7 +12,7 @@
 
 		<guava.version>16.0.1</guava.version>
 		<spring.version>4.0.9.RELEASE</spring.version>
-		<hibernate.version>4.1.0.Final</hibernate.version>
+		<hibernate.version>5.3.38.Final</hibernate.version>
 		<hibernate-common-annotations.version>4.0.2.Final</hibernate-common-annotations.version>
 		<hibernate-jpa.version>1.0.1.Final</hibernate-jpa.version>
 
@@ -537,7 +537,7 @@
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
-			<version>1.0.7</version>
+			<version>1.5.25</version>
 		</dependency>
 		<dependency>
 			<groupId>log4j</groupId>
